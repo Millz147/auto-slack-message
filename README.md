@@ -18,7 +18,7 @@ Message Sent Successfully.!!!
 ## Example usage
 
 ```
-uses: Millz147/auto-slack-message@v1.0.0
+uses: Millz147/auto-slack-message@v1
 with:
   slack_webhook: 'https://slackwebhook.com/api/expanle'
   message: 'hello i just push/pull'
